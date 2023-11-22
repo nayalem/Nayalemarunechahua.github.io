@@ -29,7 +29,7 @@ body{
 
 .hero{
     height: 50vh;
-    background-image: var(--background), url('../assets/images/fondo.jpeg');
+    background-image: var(--background), url('./assets/images/fondo.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -177,7 +177,7 @@ body{
 
 }
 
-/*projects*/
+
 
 .projects{
     background-color: #b6faba;
@@ -212,7 +212,7 @@ body{
 
 .projects__hover{
     position: absolute;
-    background: #b2f89685;
+    background: #5fa34485;
     top:0;
     left: 0;
     width: 100%;
